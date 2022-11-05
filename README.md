@@ -1,1 +1,2 @@
 # InteractiveGraphicsExamProject
+This is a project for the Interactive Graphics course 2021-2022 at Sapienza University of Rome. The project aim was to create an interactive environment using Javascript and Three.js library. 
